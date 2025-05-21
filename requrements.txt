@@ -2,3 +2,5 @@ fastai
 pandas
 gdown
 voila
+ipywidgets
+matplotlib
