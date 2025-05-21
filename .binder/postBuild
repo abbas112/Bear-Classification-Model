@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+mkdir -p model
+wget -O model/export.pkl \
+  https://github.com/abbas112/Bear-Classification-Model/releases/download/v1.0/export.pkl
