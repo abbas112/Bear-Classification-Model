@@ -1,4 +1,0 @@
-fastai
-ipython
-notebook
-pillow     # for image I/O
