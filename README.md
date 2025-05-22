@@ -2,8 +2,8 @@
 
 Click the badge, wait ~2 min for Binder to start up, then upload a bear photo!
 
-Bear-Classification-Model/
-├── requirements.txt
-├── bear_classification.ipynb
-└── models/
-    └── .gitkeep      ← an empty file so Git tracks the folder
+📂 **Bear-Classification-Model**  
+- `requirements.txt`  
+- `bear_classification.ipynb`  
+- **models/**  
+  - `.gitkeep` (empty file so Git tracks the folder)
